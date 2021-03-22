@@ -1,6 +1,8 @@
 # SMS Spam Filter via Python3
 
-This is an SMS Spam Filter application built using DearPyGUI on Python 3!
+This is an SMS Spam Filter application built using DearPyGUI on Python 3! 
+
+The application will check if an SMS message is spam or not. Application was built to learn different ways on how to use the DearPyGUI library and how to filter through text in Python.
 
 ## Installation
 
