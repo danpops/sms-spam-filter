@@ -1,10 +1,8 @@
 # SMS Spam Filter via Python3
 
-Foobar is a Python library for dealing with word pluralization.
+This is an SMS Spam Filter application built using DearPyGUI on Python 3!
 
 ## Installation
-
-This is an SMS Spam Filter application built using DearPyGUI on Python 3!
 
 First, go into your directory where you have stored the SMS Spam Filter application.
 
